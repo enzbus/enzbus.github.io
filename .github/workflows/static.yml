@@ -37,7 +37,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Install sphinx
-        run: pip install sphinx
+        run: pip install sphinx pydata-sphinx-theme
       - name: Build with Sphinx
         run: sphinx-build source .
       - name: Setup Pages

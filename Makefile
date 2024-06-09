@@ -2,8 +2,8 @@
 
 local_build:
 	python -m venv --system-site-packages env
-	pip install sphinx
-	sphinx-build source _build
+	env/bin/python -m pip install sphinx pydata-sphinx-theme
+	env/bin/python -m sphinx build source _build
 	open _build/index.html
 	
 	
