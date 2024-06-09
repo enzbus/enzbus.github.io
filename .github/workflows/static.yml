@@ -22,6 +22,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  
   # Single deploy job since we're just deploying
   deploy:
     environment:
@@ -31,6 +32,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install sphinx
+        run: pip install sphinx
+      - name: Build with Sphinx
+        run: sphinx-build source .
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
