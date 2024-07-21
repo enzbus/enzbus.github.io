@@ -29,3 +29,19 @@ html_title = 'Enzo Busseti'
 
 # put CNAME in the build folder
 # html_extra_path = ['../CNAME']
+
+###
+# Customizations to the pydata sphinx theme for personal website
+###
+
+# remove sphinx line from footer
+html_show_sphinx = False
+
+# this dict is the main customization; gets populated with defaults (see
+# pydata-sphinx docs), apart from user settings specified here
+html_theme_options = {
+    # remove site search cell
+    "navbar_persistent": [],
+    # remove right bar
+    "secondary_sidebar_items": [],
+    }
