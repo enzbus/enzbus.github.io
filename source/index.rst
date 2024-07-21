@@ -20,7 +20,7 @@ Site sections
 How to contact
 --------------
 
-I'm fairly active on maintaining some of my :doc:`software projects<software>`.
+I'm fairly actively maintaining some of my :doc:`software projects <software>`.
 If you landed here because of those, go on and open bug reports or feature
 requests; I try to answer quickly to those.
 
