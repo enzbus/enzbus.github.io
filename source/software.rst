@@ -12,7 +12,7 @@ More or less in order of how active I am in them:
   now part of ``project_euromir`` 
 - |kelly_code|_, risk-constrained Kelly portfolio allocation
 - |vwap_opt_exec|_, volume-weighted average price optimal execution
-- |boolprob|_, fitting of joint Boolean distributions, for credit default
+- |boolprob|_, fitting joint Boolean distributions for credit default modeling
 
 I also contributed to projects developed by other people mostly at Stanford.
 More or less in order of the weight of my contributions:
@@ -20,7 +20,7 @@ More or less in order of the weight of my contributions:
 - |cvxpower|_, a library for electric power grid optimization
 - |cvxpy|_, a library for convex programming symbolic definition and solution
 - |scs|_, a conic programming solver that uses operator splitting methods
-- ... and many more
+- ... and more
 
 GitHub account
 --------------
