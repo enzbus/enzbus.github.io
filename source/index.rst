@@ -4,7 +4,12 @@
 Enzo Busseti
 ============
 
-Personal website. *Work in progress.*
+*Work in progress.*
+
+Welcome to my website! :doc:`I'm a researcher and developer <bio>` in portfolio
+optimization at sovereign wealth fund in Abu Dhabi, United Arab Emirates. I
+also maintain a few :doc:`free software projects <software>` and was previously
+a researcher in academia, see :doc:`my publications <papers>`.
 
 
 Site sections
@@ -15,15 +20,4 @@ Site sections
    bio
    software
    papers
-
-
-How to contact
---------------
-
-I'm fairly actively maintaining some of my :doc:`software projects <software>`.
-If you landed here because of those, go on and open bug reports or feature
-requests; I try to answer quickly to those.
-
-If you found me because of some of my :doc:`research publications <papers>`, my
-``@stanford.edu`` email is still active; feel free to message me about
-clarifications, ideas, or collaboration proposals.
+   contact
