@@ -5,9 +5,8 @@ Enzo Busseti
 ============
 
 Welcome to my website! :doc:`I'm a researcher and developer <bio>` in portfolio
-optimization at sovereign wealth fund in Abu Dhabi, United Arab Emirates. I
-also maintain a few :doc:`free software projects <software>` and was previously
-a researcher in academia, see :doc:`my publications <papers>`.
+optimization. I also maintain a few :doc:`free software projects <software>` and
+was previously a researcher in academia, see :doc:`my publications <papers>`.
 
 *Work in progress.*
 
