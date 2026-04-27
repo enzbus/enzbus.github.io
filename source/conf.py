@@ -24,7 +24,7 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'pydata_sphinx_theme'
-html_title = 'Enzo Busseti Personal Website'
+html_title = 'Enzo Busseti, Ph.D.'
 html_static_path = ['_static']
 
 # put CNAME in the build folder
