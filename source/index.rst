@@ -10,7 +10,7 @@ in 2018, advised by `Prof. S. Boyd <https://stanford.edu/~boyd>`_,
 with a thesis titled `Portfolio Management and Optimal Execution via Convex Optimization
 <https://purl.stanford.edu/wm743bj5020>`_. I've been mainly working in industry, both
 before my doctorate and afterwards. I was also a tenure-track assistant Professor
-in automation engineering at the `IMT graduate school <https://www.imtlucca.it/en>`_ in Lucca, Italy, for a few years. 
+in automation engineering at the `IMT Graduate School <https://www.imtlucca.it/en>`_ in Lucca, Italy, for a few years. 
 I completed my undergraduate studies at `Scuola Normale <https://www.sns.it/en>`_ in Pisa, Italy.
 
 I have published a few :doc:`open-source software projects <software>` and :doc:`research papers <papers>`.
