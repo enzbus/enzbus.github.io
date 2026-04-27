@@ -1,26 +1,23 @@
 Software
 ========
 
-This is a selection of `free software
-<https://www.gnu.org/philosophy/free-sw.en.html>`_ projects I developed.
-More or less in order of how active I am in them:
+This is a selection of open-source projects I developed, as main author:
 
 - |cvxportfolio|_, a library for portfolio optimization and back-testing
-- (codename) |project_euromir|_, prototype of a factorization-free conic solver
-- |tsar|_, a library for high dimensional time-series auto regression
-- |cone_prog_refine|_, iterative refinement of conic program solution vectors,
-  now part of ``project_euromir`` 
-- |kelly_code|_, risk-constrained Kelly portfolio allocation
-- |vwap_opt_exec|_, volume-weighted average price optimal execution
-- |boolprob|_, fitting joint Boolean distributions for credit default modeling
+- |kelly_code|_, code accompanying the paper on risk-constrained Kelly gambling
+- |vwap_opt_exec|_, code accompanying the paper on VWAP optimal execution
+- |cone_prog_refine|_, cone accompanying the paper on solution refinement of conic
+  programs; its logic has been re-implemented inside `CvxpyLayers <https://github.com/cvxpy/cvxpylayers>`_, a plugin
+  system for convex programming in deep learning
 
-I also contributed to projects developed by other people mostly at Stanford.
-More or less in order of the weight of my contributions:
+.. - |boolprob|_, fitting joint Boolean distributions for credit default modeling
 
-- |cvxpower|_, a library for electric power grid optimization
-- |cvxpy|_, a library for convex programming symbolic definition and solution
-- |scs|_, a conic programming solver that uses operator splitting methods
-- ... and more
+These are other projects I made significant contributions to:
+
+- |cvxpy|_, a framework for convex optimization; early contributor, I wrote the first
+  interface to the Mosek solver, and helped design the QP compilation system
+- |cvxpower|_, a library for smart grid simulation and optimization
+- |scs|_, a first-order conic programming solver
 
 GitHub account
 --------------

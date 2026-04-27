@@ -21,7 +21,6 @@ Site sections
 .. toctree::
    :maxdepth: 1
 
-   bio
-   software
    papers
+   software
    contact
